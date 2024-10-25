@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Devel
 - 🌱 I’m currently learning .NET 8
 - 📫 How to reach me ... telegram: yangFeng-x
-- ⚡ Fun fact: this is my third github id, other two got banned, one for a call bomber, other idk why
+- ⚡ Fun fact: this is my third github id, other two got banned, one for a call bomber, other I don't wanna tell
 
 <!---
 Fengyuta-x/Fengyuta-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
